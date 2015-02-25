@@ -1,0 +1,24 @@
+Anonymous Communication System
+
+Overall Goal
+--------------------------------------------------------------------------------
+We design a truly anonymous communication system which can be used on our
+Desktops. We use a primitive called Dining-Cryptographer network. DC-nets
+guarantee that as long as one person in the network is honest (and generally
+at least you, the user, are honest), no one learns anything about who talked.
+
+
+Dining Cryptographer Networks (DC-Nets)
+--------------------------------------------------------------------------------
+Here we describe the details of how DC-Nets works.
+
+
+Usage Model
+--------------------------------------------------------------------------------
+Here we describe how our app is used.
+
+
+Desktop Application
+--------------------------------------------------------------------------------
+Here we should describe the intended capabilities of our app.
+
