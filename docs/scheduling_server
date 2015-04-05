@@ -1,0 +1,9 @@
+def send_out_schedule(secret_keys, server, client):
+    #secret keys should be given as a dictionary
+    import random
+    clients = secret_keys.keys()
+    random.shuffle(clients)
+    random_list = []
+    for c in clients:
+        random_list.append(c)
+    return random_list
