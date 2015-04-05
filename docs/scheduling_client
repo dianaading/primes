@@ -1,0 +1,9 @@
+def turn(secret, random_list):
+    counter = 0
+    while counter < len(random_list):
+        if random_list[counter] == secret:
+            print True
+            print "message"
+        else:
+            print False
+        counter += 1
